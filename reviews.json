@@ -2,7 +2,7 @@
   "average_rating": 4.96,
   "_example_review": [
         { "text": "", "date": " December , 2025", "stars": 5 }
-  ]
+  ],
   "reviews": [
         { "text": "Good price and he was very quick", "date": "29 December , 2025", "stars": 4 },
         { "text": "Fast and trustworthy", "date": "28 December , 2025", "stars": 5 },
