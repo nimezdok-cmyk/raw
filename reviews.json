@@ -1,10 +1,11 @@
 {
   "average_rating": 4.9,
   "_example_review": [
-        { "text": "", "date": "  April , 2026", "stars": 5 },
-        { "text": "", "date": "  April , 2026", "stars": 5 }
+        { "text": "", "date": "  May , 2026", "stars": 5 },
+        { "text": "", "date": "  may , 2026", "stars": 5 }
   ],
   "reviews": [
+    { "text": "Fast buisness and super nice", "date": " 2 May , 2026", "stars": 5 },
     { "text": "Trusted helpful will buy from them again worth it", "date": " 29 April , 2026", "stars": 5 },
     { "text": "Was a little slow but still pretty quick got it in under 8 minutes and he was very respectful", "date": " 28 April , 2026", "stars": 5 },
     { "text": "Delivering process was a bit slow", "date": " 27 April , 2026", "stars": 5 },
