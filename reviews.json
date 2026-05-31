@@ -1,10 +1,11 @@
 {
   "average_rating": 4.9,
   "_example_review": [
-        { "text": "", "date": "  May , 2026", "stars": 5 },
-        { "text": "", "date": "  may , 2026", "stars": 5 }
+        { "text": "", "date": "  June , 2026", "stars": 5 },
+        { "text": "", "date": "  June , 2026", "stars": 5 }
   ],
   "reviews": [
+    { "text": "Fast and without any problem", "date": " 31 May , 2026", "stars": 5 },
     { "text": "Awesome service fasymt easy an super quick response Awesome dealer 100% recommend ", "date": " 28 May , 2026", "stars": 5 },
     { "text": "Bought 10k CP but got 16k, i think its cuz of 2x CP event", "date": " 26 May , 2026", "stars": 5 },
     { "text": "bought 21k CP pack and got it under one hour", "date": " 25 May , 2026", "stars": 5 },
